@@ -1,5 +1,5 @@
 ## End to End ML Project
-Goal: To gain more understanding about MLops and ways of deploying ML models
+Goal: To gain more understanding about MLops and ways of deploying ML models. Credit to: https://github.com/krishnaik06/mlproject
 
 ### Prerequisites
 - Python 3.8
