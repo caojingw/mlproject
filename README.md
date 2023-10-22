@@ -36,12 +36,14 @@ pip install -r requirements.txt
 ```
 5. Activate Flask and run `main.py`
 ```
-Python app.py
+Python main.py
 ```
 **This is what you will see on your local URL:**
 
 ![image](https://github.com/caojingw/student_performance_prediction/assets/39035531/45fd2b23-200f-419e-a46b-b2616abf996f)
 
 ### 2. GCP App Engine - Coming soon
+
+
 
 ### 3. Docker Image - Coming soon
